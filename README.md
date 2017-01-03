@@ -5,6 +5,8 @@ THis program might exist on a server later this month but I haven't decided that
 
 ## Todo:
 
-1) Setup a localhosted website for developmene
+1) Setup a localhosted website for development
+
 2) Setup PHP 
+
 3) write up some prose for the project so i know what i want to do
